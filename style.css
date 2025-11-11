@@ -1,0 +1,23 @@
+body {
+    align-content:top-center;
+    padding-left:20%;
+    padding-right:20%;
+    padding-top:0px;
+    max-width:2000px;
+    width:2000px;
+    height:1900px;
+    max-height:1900px;
+    background-color:#A10000;
+}
+
+.topheroimg {
+    width:1280px;
+    max-width:1280px;
+    height:500px;
+    min-height:500px;
+}
+.pannkakorbanner {
+    width:100%;
+    height:100%;
+}
+
